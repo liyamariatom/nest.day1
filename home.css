@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     text-align:center;
 }
@@ -94,4 +95,102 @@ ul{
     background-color:#DDD6FE;
 
     font-size:22px;
+=======
+h1{
+    text-align:center;
+}
+
+.pic{
+   
+    width:350px;
+    height:450px;
+
+    position:absolute;
+    left:20px;
+    top:30%;
+}
+.name{
+    margin-left:450px;
+     position:absolute;
+    top:300px;
+    font-size:25px;
+}
+.nl{
+    margin-left:500px;
+     position:absolute;
+    top:350px;
+    font-size:25px;
+}
+nav{
+    background-color:#C4B5FD;
+    padding:15px;
+    text-align:center;
+}
+nav a{
+    color:rgb(59, 43, 43);
+    padding:10px 20px;
+    border-right:1px solid rgb(59, 43, 43);
+    text-decoration:none;
+}
+
+nav a:last-child{
+    border-right:none;
+}
+
+h2{
+    margin-left:40px;
+}
+
+ul{
+    font-size:22px;
+}
+
+.leftbox{
+    border:1px solid black;
+    width:300px;
+    padding:20px;
+    border-radius:10px;
+    background-color:#DDD6FE;
+    float:left;
+    margin-left:200px;
+    margin-top:50px;
+}
+
+.rightbox{
+    border:1px solid black;
+    width:300px;
+    padding:20px;
+    border-radius:10px;
+    background-color:#DDD6FE;
+
+    float:right;
+    margin-right:300px;
+    margin-top:50px;
+}
+
+
+
+
+.box{
+    border:1px solid black;
+    width:450px;
+    padding:20px;
+    margin:30px auto;
+    border-radius:10px;
+    background-color:#DDD6FE;
+}
+
+
+
+.contactbox{
+    border:1px solid black;
+    width:450px;
+    padding:25px;
+    margin:50px auto;
+    border-radius:10px;
+
+    background-color:#DDD6FE;
+
+    font-size:22px;
+>>>>>>> 55e200d184e39a0974a07f276871b9b36e2838c3
 }
